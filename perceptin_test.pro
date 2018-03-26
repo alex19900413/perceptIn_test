@@ -9,3 +9,6 @@ TEMPLATE = app
 
 SOURCES += main.cpp
 
+DISTFILES += \
+    zuluko_mono_robot.INFO
+
